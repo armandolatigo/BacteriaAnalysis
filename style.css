@@ -1,0 +1,39 @@
+.jumbotron {
+    background-image: url("image.jpg");
+    background-size: cover;
+    text-align: center;
+  }
+
+.jumbotron h1 {
+    color: #000000;
+    font-family: "Impact";
+}
+
+.jumbotron p {
+    color: #000000;
+    font: monospace
+}
+body {
+    background: #605f75 !important;
+}
+
+.panel-title {
+    background: #f997fc;
+}
+
+.panel-default {
+    background: #7980df;
+}
+
+.panel-heading {
+    background: #f997fc !important;
+    color: #f7f7f7 !important;
+}
+
+.panel-body {
+    color: #000000;
+}
+
+.well {
+    color: #6c757d;
+}
